@@ -1,0 +1,20 @@
+{
+  "name": "ts-refresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module1.js",
+  "scripts": {
+    "dev": "tsc index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "axios": "^1.21.0"
+  }
+}
